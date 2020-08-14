@@ -15,5 +15,6 @@
     "require": {
         "illuminate/support" : "~5"
     },
-     "minimum-stablity": "dev"
+     "minimum-stablity": "dev",
+    "prefer-stable": true
 }
