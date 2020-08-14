@@ -13,8 +13,7 @@
         }
     },
     "require": {
-        "illuminate/support" : "~5",
-         "php": "^7.0 | ^7.1 | ^7.2",
+        "illuminate/support" : "~5"
     },
      "minimum-stablity": "dev"
 }
