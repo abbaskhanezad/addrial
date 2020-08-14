@@ -12,7 +12,10 @@
             "Abbas\\Addrial\\" : "src/"
         }
     },
-    "require": {
-        "illuminate/support" : "~5"
-    }
+   "require": {
+        "php": "^7.0 | ^7.1 | ^7.2",
+       
+    },
+    
+     "minimum-stablity": "dev"
 }
