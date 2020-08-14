@@ -1,6 +1,6 @@
 {
     "name": "abbas/adrial",
-    "description": "add rial to price",
+    "description": "Add rial to price",
     "authors": [
         {
             "name": "abbas kh",
@@ -13,6 +13,6 @@
         }
     },
     "require": {
-        "Illuminate/Support" : "~5"
+        "illuminate/support" : "~5"
     }
 }
